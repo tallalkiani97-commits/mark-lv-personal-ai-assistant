@@ -1,0 +1,13 @@
+{
+  "gemini_api_key": "PASTE_YOUR_GEMINI_API_KEY_HERE",
+  "os_system": "windows",
+  "assistant_name": "JARVIS",
+  "user_name": "your-name",
+  "ui_color": "#ff3400",
+  "hud_style": "core",
+  "morning_brief_enabled": false,
+  "camera_index": 0,
+  "voice_name": "Puck",
+  "input_device": "",
+  "output_device": ""
+}
